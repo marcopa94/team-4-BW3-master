@@ -1,0 +1,172 @@
+.sideDx {
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209);
+}
+.sideDx2 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209);
+  position: relative;
+}
+.sideDx3 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209);
+  position: relative;
+  margin-top: 20px;
+}
+
+.img1 {
+  border-radius: 18px 18px 0px 0px;
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+}
+.icona {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  gap: 149px;
+}
+.testoside2 {
+  padding-left: 30px;
+  padding-top: 59px;
+  padding-bottom: 4px;
+}
+.logo1 {
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.logo2 {
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.card1 {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+/*-----------------centraltest---------------------------------*/
+.centered {
+  height: 800px;
+  background-color: black;
+}
+/*-----------------centraltest---------------------------------*/
+.testodi {
+  width: auto;
+}
+#btn5 {
+  width: 200px;
+  border-radius: 20px;
+}
+h3 {
+  margin-bottom: 0px !important;
+  font-size: 25px !important;
+}
+h2 {
+  font-size: 19px;
+}
+.footcard {
+  margin-top: 17px;
+  border-radius: 0px 0px 18px 18px !important;
+  width: 100%;
+  padding: 9px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209);
+  text-align: center;
+}
+#btn7 {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 2px !important;
+  background-color: rgb(218, 218, 218);
+  color: black;
+}
+.experience {
+  display: flex;
+}
+.textexperience {
+  display: flex;
+}
+
+#imguser {
+  border-radius: 50%;
+  width: 78px;
+  position: absolute !important;
+  top: 10% !important;
+  left: 50% !important;
+  transform: translate(-50%, 50%);
+}
+.imguser2 {
+  height: 130px !important;
+  border-radius: 18px 18px 0px 0px;
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+}
+.testosideprofile {
+  display: flex;
+  padding-left: 3px !important;
+  padding-top: 55px !important;
+  padding-bottom: 4px !important;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.underline-text {
+  text-decoration: underline;
+}
+#colfinal {
+  flex: 0 0 auto;
+  width: 56% !important;
+}
+.footcardhome {
+  margin-top: 17px;
+  border-radius: 0px 0px 18px 18px !important;
+  width: 100%;
+  padding: 9px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209);
+  text-align: center;
+}
+#fotopost {
+  width: "150px";
+  height: "150px";
+  border-radius: 50%;
+}
+#align {
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+/* .imgut {
+  width: 100%;
+} */
+
+#box14 {
+  margin-top: 5px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px !important;
+  border: 1px solid rgb(210, 209, 209) !important;
+}
+#commenti {
+  background-color: rgba(215, 215, 215, 0.305);
+  padding: 20px;
+}
+.fw-bold {
+  margin-right: 10px;
+}
+
+.mostra {
+  font-size: 13px !important;
+}

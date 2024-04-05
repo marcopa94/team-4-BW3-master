@@ -1,0 +1,67 @@
+.bordo-tratteggiato-arrotondato {
+  border: 1px dashed rgb(45, 45, 209);
+  border-radius: 20px;
+  padding-block: 0px;
+  padding-inline: 5px;
+}
+
+.rounded-50 {
+  border-radius: 50px !important;
+}
+
+.immagine-profilo {
+  left: 30px;
+  bottom: -60px;
+  width: 60%;
+}
+
+.pen {
+  top: 25px;
+  right: 25px;
+}
+body {
+  background-color: #f4f2ee;
+}
+#footer {
+  margin-top: 63px;
+}
+#mynav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+#box12 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209) !important;
+}
+#box13 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 18px;
+  border: 1px solid rgb(210, 209, 209) !important;
+  padding-bottom: 20px;
+}
+
+#dropdown-basic::after {
+  display: none;
+}
+
+.select-w {
+  width: 48% !important;
+  display: inline-block !important;
+}
+#fotoprof {
+  border: 8px solid rgb(253, 253, 253);
+  width: 200px;
+}
+#verifica {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.lista1 {
+  background-color: rgba(202, 202, 202, 0.253);
+  border: 1px solid rgb(159, 159, 159);
+}
+.lista2 {
+  background-color: rgba(202, 202, 202, 0) !important;
+}
